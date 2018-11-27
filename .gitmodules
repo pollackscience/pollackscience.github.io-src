@@ -1,0 +1,6 @@
+[submodule "pollackscience.github.io"]
+	path = pollackscience.github.io
+	url = https://github.com/pollackscience/pollackscience.github.io.git
+[submodule "output"]
+	path = output
+	url = https://github.com/pollackscience/pollackscience.github.io.git
